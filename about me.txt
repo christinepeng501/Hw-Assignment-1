@@ -1,0 +1,3 @@
+Hello! I am a Statistics and Data Science student at UCLA.
+
+I am interested in machine learning, bioinformatics, and computational biology.
